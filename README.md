@@ -4,7 +4,7 @@
 
 ## 本地预览
 ```
-book sm
+gitbook serve
 ```
 
 ## 提交git仓库
