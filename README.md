@@ -1,6 +1,6 @@
 # Introduction
 
-## [目录](README.md)
+## [目录](SUMMARY.md)
 
 ## 本地预览
 ```
