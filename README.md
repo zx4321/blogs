@@ -1,16 +1,13 @@
 # Introduction
 
-## 自动生成目录
+## [目录](README.md)
+
+## 本地预览
 ```
 book sm
 ```
 
 ## 提交git仓库
 ```
-gitbook serve
-```
-
-## 提交git仓库
-```
-gitbook build
+bash commit.sh content
 ```

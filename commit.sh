@@ -1,4 +1,6 @@
+# 自动生成目录
 book sm
+# 打包
 gitbook build
 git add .
 git commit -m $1
